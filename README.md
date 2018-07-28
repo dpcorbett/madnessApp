@@ -1,0 +1,2 @@
+# madnessApp
+Experimenting with bits.
